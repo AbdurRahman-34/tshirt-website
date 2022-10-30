@@ -1,0 +1,19 @@
+.t-shirt{
+    height: 450px;
+    width: 300px;
+    border: 2px solid silver;
+    border-radius: 20px;
+    padding: 10px;
+}
+.t-shirt img{
+    height: 250px;
+}
+.t-shirt button {
+    background-color: #3a2a89bd;
+    padding: 12px 35px;
+    border: #ffdead00;
+    color: #fff;
+    border-radius: 9px;
+    font-size: 15px;
+    cursor: pointer;
+}
